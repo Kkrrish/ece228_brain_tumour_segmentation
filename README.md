@@ -1,1 +1,3 @@
 # ece228_brain_tumour_segmentation
+
+Applying Machine Learning techniques on Medical Imaging tasks has always been a challenging problem. Brain Tumour detection using MRI scans is one such application which has a huge demand and potential upsides from automation, but is still not a solved problem. In this project, we explore 2 major CNN-based approaches to Brain Tumour detection, 1. A pixel-by-pixel Cascading CNN, which trains on focused mini-patches of MRIs, 2. An image-based UNet with Attention, which trains on complete MRI scans and predicts tumour classes. We make some enhancements in the training process and explore the trade-offs of each of these models in order to get the best possible classification results.
