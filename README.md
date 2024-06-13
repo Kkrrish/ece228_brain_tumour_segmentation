@@ -6,18 +6,25 @@ References:
 [1] Mohammad Havaei, Axel Davy, David Warde-Farley, Antoine Biard, Aaron Courville, Yoshua
 Bengio, Chris Pal, Pierre-Marc Jodoin, and Hugo Larochelle. Brain tumor segmentation with
 deep neural networks. Medical Image Analysis, 35:18–31, January 2017.
+
 [2] Ozan Oktay, Jo Schlemper, Loic Le Folgoc, Matthew Lee, Mattias Heinrich, Kazunari Misawa,
 Kensaku Mori, Steven McDonagh, Nils Y Hammerla, Bernhard Kainz, Ben Glocker, and Daniel
 Rueckert. Attention u-net: Learning where to look for the pancreas, 2018.
+
 [3] Marcel Prastawa, Elizabeth Bullitt, Sean Ho, and Guido Gerig. A brain tumor segmentation
 framework based on outlier detection. Medical image analysis, 8(3):275–283, 2004.
+
 [4] Olaf Ronneberger, Philipp Fischer, and Thomas Brox. U-net: Convolutional networks for
 biomedical image segmentation, 2015.
+
 [5] SMIR. Brats 2013 dataset. https://www.smir.ch/BRATS/Start2013.
+
 [6] GitHub Source code. Achyth Esthuri, Devanshi Panchal, Krish Mehta, Prashil Parekh. https://github.com/Kkrrish/ece228_brain_tumour_segmentation.
+
 [7] Nagesh Subbanna, Doina Precup, and Tal Arbel. Iterative multilevel mrf leveraging context and
 voxel information for brain tumour segmentation in mri. In Proceedings of the IEEE conference
 on computer vision and pattern recognition, pages 400–405, 2014.
+
 [8] Nagesh K Subbanna, Doina Precup, D Louis Collins, and Tal Arbel. Hierarchical probabilistic
 gabor and mrf segmentation of brain tumours in mri volumes. In Medical Image Computing and
 Computer-Assisted Intervention–MICCAI 2013: 16th International Conference, Nagoya, Japan,
